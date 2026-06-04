@@ -1,16 +1,31 @@
-## Hi there 👋
+# Sultan Isaac Osman ⚡
 
-<!--
-**sultanisaac/sultanisaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack AI Architect & Visibility Specialist
 
-Here are some ideas to get you started:
+I design and engineer premium, autonomous digital ecosystems, bridging the gap between high-fidelity UI/UX and agentic AI backend orchestration. I operate at the intersection of modern product engineering and Generative Engine Optimization (GEO/AEO) to build systems that scale commercially and index perfectly for AI models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Capabilities
+
+- **Frontend Architecture:** React, Next.js, Vite, TypeScript, Tailwind CSS, Framer Motion, shadcn/ui
+- **Backend & Database:** Node.js, Express, NestJS, Supabase (Realtime, Auth, DB), PostgreSQL
+- **AI & Automation:** Custom AI Agents, Convocore.ai (Agentic Voice), Make.com, n8n workflows
+- **Discovery Optimization:** SEO, GEO (Generative Engine Optimization), AEO (Answer Engine Optimization)
+
+---
+
+### 🚀 Live Prototypes & Systems
+
+*   🥇 **[Expert28Gym-Prototype](https://expert28gym-prototype0.vercel.app/)** — Multi-tenant Athlete Intelligence Lab (React + Supabase + Recharts)
+*   🥈 **[Luxury28-Prototype](https://luxury28-prototype.vercel.app/)** — Premium retail checkout with live Xendit Sandbox API & Authenticity Vault
+*   🧴 **[Auraskin-Prototype](https://auraskin-prototype.vercel.app/)** — Minimalist clinical aesthetics platform with auto-filled Cal.com scheduling metadata
+*   🍳 **[Restaurant-Prototype](https://restaurant-prototype-alpha.vercel.app/)** — Visually rich landing page for a traditional Indonesian restaurant (Dapur Pusaka Nusantara)
+
+---
+
+### 📈 Find My Work
+
+*   🌐 [Portfolio Website](https://sultanisaac.dev/)
+*   💼 [LinkedIn / Professional Contact](https://www.linkedin.com/in/sultan-isaac-osman/)
+*   📧 [Email Direct](mailto:sultan.isaac26@gmail.com)
