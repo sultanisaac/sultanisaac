@@ -1,4 +1,4 @@
-# Sultan Isaac Osman 👑
+# Sultan Isaac Osman 
 
 ### Full Stack AI Architect & Visibility Specialist
 
