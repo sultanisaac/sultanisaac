@@ -8,7 +8,7 @@ I design and engineer premium, autonomous digital ecosystems, bridging the gap b
 
 ### ⚡ Currently Focusing On
 
-*   🔭 **Building:** Advanced CRM architectures for B2B2C marketplaces (Pesanaja.Lab) & Premium Aesthetics Platforms.
+*   🔭 **Building:** Advanced CRM architectures for B2B2C marketplaces (Pesanaja.Lab), Premium Aesthetics Platforms, and Automated Lead Notification Systems.
 *   🌱 **Exploring:** Deeper Agentic AI integrations via the Model Context Protocol (MCP) and dynamic workflow automations.
 
 ---
@@ -17,16 +17,18 @@ I design and engineer premium, autonomous digital ecosystems, bridging the gap b
 
 - **Frontend Architecture:** React, Next.js, Vite, TypeScript, Tailwind CSS, Framer Motion, shadcn/ui
 - **Backend & Database:** Node.js, Express, NestJS, Supabase (Realtime, Auth, DB), PostgreSQL, Vercel KV
-- **AI & Automation:** Custom AI Agents, Convocore.ai (Agentic Voice), Make.com, n8n workflows
-- **Fintech Integration:** Xendit Payment Gateways (Live & Sandbox APIs)
+- **AI & Automation:** Custom AI Agents, Convocore.ai, AI Phone Caller Assistants, Agentic Workflow Orchestration, Make.com, n8n
+- **Integrations & Business Logic:** Xendit Payment Gateways, NodeMailer, Google Calendar API, WhatsApp API, Webhooks
 - **Discovery Optimization:** SEO, GEO (Generative Engine Optimization), AEO (Answer Engine Optimization)
 
 ---
 
 ### 🚀 Live Prototypes & Systems
 
-*   ✨ **[Auraskin-Prototype](https://auraskin-prototype.vercel.app/) & [Admin-Auraskin](https://github.com/sultanisaac/Admin-Auraskin-Prototype)** - Premium aesthetics platform featuring a custom-built booking engine and unified Supabase CRM dashboard, replacing third-party schedulers.
+*   ✨ **[Auraskin-Prototype](https://auraskin-prototype.vercel.app/) & [Admin-Auraskin](https://github.com/sultanisaac/Admin-Auraskin-Prototype)** - Premium aesthetics platform featuring a custom-built booking engine, serverless tech stack, and a Capacitor-based mobile application strategy.
+*   ⚖️ **[NUSALEXA Law Firm Platform](https://lawfirm-prototype.vercel.app/)** - Autonomous Legal Intake Pipeline built with Next.js, generating automated Google Calendar events and secure NodeMailer emails.
 *   📦 **[Pesanaja.Lab-Prototype](https://github.com/sultanisaac/Pesanaja.Lab-Prototype)** - B2B2C marketplace infrastructure integrated with Xendit, Supabase, and advanced transactional workflows.
+*   ⚙️ **[RTI | Rumah Teknologi Indonesia](https://rti-id.com)** - Bilingual industrial automation training platform targeting Siemens and Schneider PLC curriculums.
 *   🏋️ **[Expert28Gym-Prototype](https://expert28gym-prototype0.vercel.app/)** - Multi-tenant Athlete Intelligence Lab (React + Supabase + Recharts)
 *   🛍️ **[Luxury28-Prototype](https://luxury28-prototype.vercel.app/)** - Premium retail checkout with live Xendit Sandbox API & Authenticity Vault
 *   🍲 **[Restaurant-Prototype](https://restaurant-prototype-alpha.vercel.app/)** - Visually rich landing page for a traditional Indonesian restaurant (Dapur Pusaka Nusantara)
