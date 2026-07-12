@@ -38,8 +38,8 @@ I design and engineer premium, autonomous digital ecosystems, bridging the gap b
 ### 📊 GitHub Activity & Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sultanisaac&show_icons=true&theme=radical&hide_border=true" alt="Sultan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanisaac&layout=compact&theme=radical&hide_border=true" alt="Sultan's Top Languages" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=sultanisaac&show_icons=true&theme=radical&hide_border=true" alt="Sultan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=sultanisaac&layout=compact&theme=radical&hide_border=true" alt="Sultan's Top Languages" width="48%" />
 </div>
 
 ---
